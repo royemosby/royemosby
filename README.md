@@ -2,7 +2,7 @@
 
 I am a fulltime software engineering student through Flatiron where I am learning Ruby, Ruby on Rails, JavaScript, React, and all the fun tie-ins in between. Course completion is July 2021.
 
-I'm a fan of flat caps, cast iron, and web technologies.
+I'm a fan of flat caps, cast iron cooking, and web technologies.
 
 ## Find me on
 
