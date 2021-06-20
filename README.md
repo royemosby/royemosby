@@ -1,4 +1,4 @@
-🏗️🏗️ *I'm in the midst of some GH account migration. Please forgive the sawdust!* 🪚🪚🏗
+🪚 🪚 *I'm in the midst of some GH account migration. Please forgive the sawdust!* 🪚 🪚
 
 # About Me
 
