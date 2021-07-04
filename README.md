@@ -1,6 +1,6 @@
 # About Me
 
-I am a full-stack software engineer specializing in Ruby, Ruby on Rails, JavaScript, React, and all the fun tie-ins in between.
+I am a full-stack software engineer specializing in Ruby, Ruby on Rails, JavaScript, React, and all the fun tie-ins in between. Currently looking for remote work or work in the D.C. area.
 
 I'm a fan of flat caps, cast iron cooking, and web technologies.
 
