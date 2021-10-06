@@ -1,6 +1,6 @@
 # About Me
 
-I am a full-stack software engineer specializing in Ruby, Ruby on Rails, JavaScript, React, and all the fun tie-ins in between. Currently looking for remote work or work in the D.C. area.
+I am a full-stack software engineer specializing in Ruby, Ruby on Rails, JavaScript, React, and all the fun tie-ins in between. Oh, and add PHP to that list!
 
 I'm a fan of flat caps, cast iron cooking, and web technologies.
 
@@ -10,4 +10,3 @@ I'm a fan of flat caps, cast iron cooking, and web technologies.
 - [CodePen](https://codepen.io/egomadking)
 - [Reddit](https://www.reddit.com/user/royemosby)
 - [LinkedIn](https://www.linkedin.com/in/roy-mosby/)
-- [Twitter](https://twitter.com/royemosby) (not so much but I may as well list it...)
