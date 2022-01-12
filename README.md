@@ -7,6 +7,6 @@ I'm a fan of flat caps, cast iron cooking, and web technologies.
 ## Find me on
 
 - [My Blog](https://www.roymosby.me/)
-- [CodePen](https://codepen.io/egomadking)
+- [CodePen](https://codepen.io/royemosby)
 - [Reddit](https://www.reddit.com/user/royemosby)
 - [LinkedIn](https://www.linkedin.com/in/roy-mosby/)
