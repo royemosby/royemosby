@@ -1,6 +1,6 @@
 # About Me
 
-I am a full-stack software engineer specializing in Ruby, PHP, JavaScript, and all the fun tie-ins in between. Looking for work so if you know anyone hiring, pretty please redirect them to my LinkedIn.
+I am a full-stack software engineer specializing in Ruby, PHP, JavaScript, and all the fun tie-ins in between.
 
 The human in me: I'm a fan of flat caps, cast iron cooking, and my 2 cats.
 
