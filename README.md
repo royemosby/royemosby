@@ -8,5 +8,4 @@ The human in me: I'm a fan of flat caps, cast iron cooking, and my 2 cats.
 
 - [My Blog](https://www.roymosby.me/)
 - [CodePen](https://codepen.io/royemosby)
-- [Reddit](https://www.reddit.com/user/royemosby)
 - [LinkedIn](https://www.linkedin.com/in/roy-mosby/)
