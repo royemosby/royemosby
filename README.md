@@ -4,10 +4,11 @@ I am a full-stack software engineer specializing in Javascript, Python, Ruby, an
 
 The human in me: I'm a fan of flat caps, cast iron cooking, and my 2 cats.
 
+***Oh, and I'm looking for work too***
+
 ## Find me on
 
 - [My Digital Garden (WIP)](https://www.roymosby.me/)
 - [LinkedIn](https://www.linkedin.com/in/roy-mosby/)
 - [CodePen](https://codepen.io/royemosby)
 
-***Oh, and I'm looking for work too***
