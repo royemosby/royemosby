@@ -6,6 +6,6 @@ The human in me: I'm a fan of flat caps, cast iron cooking, and my 2 cats.
 
 ## Find me on
 
-- [My Blog](https://www.roymosby.me/)
-- [CodePen](https://codepen.io/royemosby)
+- [My Digital Garden (WIP)](https://www.roymosby.me/)
 - [LinkedIn](https://www.linkedin.com/in/roy-mosby/)
+- [CodePen](https://codepen.io/royemosby)
